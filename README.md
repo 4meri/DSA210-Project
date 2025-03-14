@@ -51,4 +51,5 @@ I anticipate to find a positive correlation between level of urbanization and av
 
 # Hypotheses:
 Null hypothesis: Urbanization tends to correlate positively with average human height thanks to higher income levels, improved healthcare conditions and better nutrition.
+
 Alternative hypothesis: Urbanization has no significant relationship with or negative impact on average human height, therefore it does not correlate positively due to factors such as air pollution, consumption of processed food, urban stress and sedentary lifestyles.
