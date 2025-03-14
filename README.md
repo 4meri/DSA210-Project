@@ -12,9 +12,9 @@ The dataset that will be examined in this study encompasses information from eco
 4. Percentage of population engaged in farming: Urbanization affecting the rates of people living in rural and urban areas would impact production that can lead to less quality food whereas rural areas are known for access to fresh food.
 5. Consumption of processed vs. whole foods: Higher processed food consumption in urban areas may influence child nutrition and growth.
 6. Malnutrition rates: Rural and urban populations can be compared in terms of access to quality food leading to a better diet.
-7. Child mortality rates:
-8. Healthcare access:
-9. Prevalence of childhood diseases:
+7. Child mortality rates: Rates of child mortality might be used as an indicator of sufficient healthcare conditions.
+8. Healthcare access: Change in level of healthcare access availability may show how people benefited from this change by providing their children better control of health.
+9. Prevalence of childhood diseases: Frequent illnesses in childhood can harm growth and eventually affect height.
 10. Access to electricity/water/sanitation:
 11. Air pollution level:
 12. Average human height:
