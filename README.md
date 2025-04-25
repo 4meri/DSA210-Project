@@ -14,33 +14,29 @@ I started with determining the research area that I am interested in so that I c
 # Details of the Dataset
 The dataset that will be examined in this study encompasses information from economical, social and physical factors that can possibly be beneficial in the process of investigating the ultimate correlation between urbanization and average human height. These factors can be listed as follows:
 
-1. Income levels / GDP per capita: Higher income level might lead to better nutrition which would contribute to physical development.
+1. Income levels / GDP per capita: Higher income level might lead to better nutrition which would contribute to physical development. Here is the link to my data: https://ourworldindata.org/grapher/global-average-gdp-per-capita-over-the-long-run.csv?v=1&csvType=full&useColumnShortNames=true
 
-2. Daily supply of calories per person: Change in calorie availability could indicate diet conditions of the people.
+2. Daily supply of calories per person: Change in calorie availability could indicate diet conditions of the people. Here is the link to my data: https://ourworldindata.org/grapher/daily-per-capita-caloric-supply.csv?v=1&csvType=full&useColumnShortNames=true
 
-3. Agricultural productivity: More productive agriculture would result in an increase in calorie availability and, consequently, better nutrition.
+3. Agricultural productivity: More productive agriculture would result in an increase in calorie availability and, consequently, better nutrition. Here is the link to my data: https://ourworldindata.org/grapher/agricultural-output-dollars.csv?v=1&csvType=full&useColumnShortNames=true
 
-4. Percentage of population engaged in farming: Urbanization affecting the rates of people living in rural and urban areas would impact production that can lead to less quality food whereas rural areas are known for access to fresh food.
+4. Percentage of population engaged in farming: Urbanization affecting the rates of people living in rural and urban areas would impact production that can lead to less quality food whereas rural areas are known for access to fresh food. Here is the link to my data: https://ourworldindata.org/grapher/number-of-people-employed-in-agriculture.csv?v=1&csvType=full&useColumnShortNames=true
 
-5. Consumption of processed vs. whole foods: Higher processed food consumption in urban areas may influence child nutrition and growth.
+5. Consumption of processed vs. whole foods: Higher processed food consumption in urban areas may influence child nutrition and growth. Here is the link to my data: https://ourworldindata.org/grapher/dietary-composition-by-country.csv?v=1&csvType=full&useColumnShortNames=true
 
-6. Malnutrition rates: Rural and urban populations can be compared in terms of access to quality food leading to a better diet.
+6. Malnutrition rates: Rural and urban populations can be compared in terms of access to quality food leading to a better diet. Here is the link to my data: https://ourworldindata.org/grapher/share-of-children-younger-than-5-who-suffer-from-stunting.csv?v=1&csvType=full&useColumnShortNames=true
 
-7. Child mortality rates: Rates of child mortality might be used as an indicator of sufficient healthcare conditions.
+7. Child mortality rates: Rates of child mortality might be used as an indicator of sufficient healthcare conditions. Here is the link to my data: https://ourworldindata.org/grapher/child-mortality.csv?v=1&csvType=full&useColumnShortNames=true
 
-8. Healthcare access: Change in level of healthcare access availability may show how people benefited from this change by providing their children better control of health.
+8. Healthcare access: Change in level of healthcare access may show how people benefited from this change by providing their children better control of health. Here is the link to my data: https://ourworldindata.org/grapher/annual-healthcare-expenditure-per-capita.csv?v=1&csvType=full&useColumnShortNames=true
 
-9. Prevalence of childhood diseases: Frequent illnesses in childhood can harm growth and eventually affect height.
+9. Vaccination coverage: With the help of improvements in healthcare due to urbanization, immunization against certain childhood diseases became more widespread which can potentially prevent harm on child growth that can be caused by these diseases. Here is the link to my data: https://ourworldindata.org/grapher/global-vaccination-coverage.csv?v=1&csvType=full&useColumnShortNames=true
 
-10. Access to electricity/water/sanitation: Disparities in access to (clean) sources and distress that it can cause in terms of health (diseases etc.) might lead to distinction in child growth throughout generations.
+10. Access to electricity/water/sanitation: Disparities in access to (clean) sources and distress that it can cause in terms of health (diseases etc.) might lead to distinction in child growth throughout generations. Here is the link to my data: https://ourworldindata.org/grapher/number-using-at-least-basic-sanitation.csv?v=1&csvType=full&useColumnShortNames=true
 
-11. Air pollution level: Increase in air pollution may hinder child growth by causing harm for health.
+11. Air pollution level: Increase in air pollution may hinder child growth by causing harm for health. Here is the link to my data: https://ourworldindata.org/grapher/long-run-air-pollution.csv?v=1&csvType=full&useColumnShortNames=true
 
-12. Childhood stress levels: Significantly higher level of stress can lead to hormonal changes that can hinder growth.
-
-13. Sedentary lifestyles: Rural populations are known for engaging more in physical labor which can impact body development (bones, muscles etc.).
-
-14. Average human height: This is the ultimate parameter for which I hope to find a correlation between urbanization. Above parameters will be examined in the expectation of a correlation.
+12. Average human height: This is the ultimate parameter for which I hope to find a correlation between urbanization. Above parameters will be examined in the expectation of a correlation. Here is the link to my data: https://ourworldindata.org/grapher/average-height-by-year-of-birth.csv?v=1&csvType=full&useColumnShortNames=true
 
 ----
 
@@ -50,6 +46,6 @@ I anticipate to find a positive correlation between level of urbanization and av
 ----
 
 # Hypotheses:
-Null hypothesis: Urbanization tends to correlate positively with average human height thanks to higher income levels, improved healthcare conditions and better nutrition.
+Null hypothesis: Urbanization has no significant relationship with average human height.
 
-Alternative hypothesis: Urbanization has no significant relationship with or negative impact on average human height, therefore it does not correlate positively due to factors such as air pollution, consumption of processed food, urban stress and sedentary lifestyles.
+Alternative hypothesis: Urbanization tends to correlate positively with average human height.
