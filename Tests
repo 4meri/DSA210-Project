@@ -1,0 +1,35 @@
+Tests:
+
+----
+
+Chi-Square Test: Height Group vs Calorie Intake Group
+H₀: No association between height category and calorie intake group
+H₁: There is an association
+Chi2 statistic = 31.131
+Degrees of freedom = 4
+p-value = 0.0000
+Result: Reject H₀: Significant association exists.
+
+----
+
+Group Sizes:
+calorie_group
+Low Calories     19
+High Calories    18
+Name: count, dtype: int64
+
+--- T-Test: Low vs High Calorie Intake ---
+H₀: Mean height is the same for low and high calorie intake groups.
+H₁: Mean height is different.
+T-statistic: -2.861
+P-value: 0.0079
+Result: Reject H₀: Significant difference.
+
+----
+
+--- Hypothesis Test ---
+H₀: No correlation between GDP per capita and male height
+H₁: There is a correlation (expected positive)
+Pearson correlation (r): 0.655
+p-value: 0.0000
+Result: Reject H₀: Significant correlation found.
