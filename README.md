@@ -49,3 +49,8 @@ I anticipate to find a positive correlation between level of urbanization and av
 Null hypothesis: Urbanization has no significant relationship with average human height.
 
 Alternative hypothesis: Urbanization tends to correlate positively with average human height.
+
+----
+
+# About the Dataset:
+1- Missing values in height data after 1996 were left unfilled, as individuals born after this year had not reached adult height (age 18), and interpolation or imputation would not have been meaningful.
