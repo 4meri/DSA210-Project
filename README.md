@@ -16,27 +16,27 @@ The dataset that will be examined in this study encompasses information from eco
 
 1. Income levels / GDP per capita: Higher income level might lead to better nutrition which would contribute to physical development. Here is the link to my data: https://ourworldindata.org/grapher/global-average-gdp-per-capita-over-the-long-run.csv?v=1&csvType=full&useColumnShortNames=true
 
-2. Daily supply of calories per person: Change in calorie availability could indicate diet conditions of the people. Here is the link to my data: https://ourworldindata.org/grapher/daily-per-capita-caloric-supply.csv?v=1&csvType=full&useColumnShortNames=true
+2. Daily supply of calories per person: Change in calorie availability could indicate diet conditions of the people. Here is the link to my data: https://ourworldindata.org/grapher/daily-per-capita-caloric-supply.csv?v=1&csvType=filtered&useColumnShortNames=true&country=~OWID_WRL
 
-3. Agricultural productivity: More productive agriculture would result in an increase in calorie availability and, consequently, better nutrition. Here is the link to my data: https://ourworldindata.org/grapher/agricultural-output-dollars.csv?v=1&csvType=full&useColumnShortNames=true
+3. Agricultural output: More productive agriculture would result in an increase in calorie availability and, consequently, better nutrition. Here is the link to my data: https://ourworldindata.org/grapher/agricultural-output-dollars.csv?v=1&csvType=filtered&useColumnShortNames=true
 
-4. Percentage of population engaged in farming: Urbanization affecting the rates of people living in rural and urban areas would impact production that can lead to less quality food whereas rural areas are known for access to fresh food. Here is the link to my data: https://ourworldindata.org/grapher/number-of-people-employed-in-agriculture.csv?v=1&csvType=full&useColumnShortNames=true
+4. Number of people employed in agriculture: Urbanization affecting the rates of people living in rural and urban areas would impact production that can lead to less quality food whereas rural areas are known for access to fresh food. Here is the link to my data: https://ourworldindata.org/grapher/number-of-people-employed-in-agriculture.csv?v=1&csvType=filtered&useColumnShortNames=true&country=~OWID_WRL
 
-5. Consumption of processed vs. whole foods: Higher processed food consumption in urban areas may influence child nutrition and growth. Here is the link to my data: https://ourworldindata.org/grapher/dietary-composition-by-country.csv?v=1&csvType=full&useColumnShortNames=true
+5. Diet composition: Higher processed food consumption in urban areas may influence child nutrition and growth. Here is the link to my data: https://ourworldindata.org/grapher/dietary-composition-by-country.csv?v=1&csvType=filtered&useColumnShortNames=true&country=~OWID_WRL
 
-6. Malnutrition rates: Rural and urban populations can be compared in terms of access to quality food leading to a better diet. Here is the link to my data: https://ourworldindata.org/grapher/share-of-children-younger-than-5-who-suffer-from-stunting.csv?v=1&csvType=full&useColumnShortNames=true
+6. Malnutrition rates: Rural and urban populations can be compared in terms of access to quality food leading to a better diet. Here is the link to my data: https://ourworldindata.org/grapher/share-of-children-younger-than-5-who-suffer-from-stunting.csv?v=1&csvType=filtered&useColumnShortNames=true&tab=chart&country=~OWID_WRL
 
-7. Child mortality rates: Rates of child mortality might be used as an indicator of sufficient healthcare conditions. Here is the link to my data: https://ourworldindata.org/grapher/child-mortality.csv?v=1&csvType=full&useColumnShortNames=true
+7. Child mortality rates: Rates of child mortality might be used as an indicator of sufficient healthcare conditions. Here is the link to my data: https://ourworldindata.org/grapher/child-mortality.csv?v=1&csvType=filtered&useColumnShortNames=true&country=~OWID_WRL
 
-8. Healthcare access: Change in level of healthcare access may show how people benefited from this change by providing their children better control of health. Here is the link to my data: https://ourworldindata.org/grapher/annual-healthcare-expenditure-per-capita.csv?v=1&csvType=full&useColumnShortNames=true
+8. Healthcare expenditure: Change in level of healthcare expenditure may show how people benefited from this change by providing their children better control of health. Here is the link to my data: https://ourworldindata.org/grapher/annual-healthcare-expenditure-per-capita.csv?v=1&csvType=filtered&useColumnShortNames=true&tab=chart&country=~OWID_WRL
 
-9. Vaccination coverage: With the help of improvements in healthcare due to urbanization, immunization against certain childhood diseases became more widespread which can potentially prevent harm on child growth that can be caused by these diseases. Here is the link to my data: https://ourworldindata.org/grapher/global-vaccination-coverage.csv?v=1&csvType=full&useColumnShortNames=true
+9. Vaccination coverage: With the help of improvements in healthcare due to urbanization, immunization against certain childhood diseases became more widespread which can potentially prevent harm on child growth that can be caused by these diseases. Here is the link to my data: https://ourworldindata.org/grapher/global-vaccination-coverage.csv?v=1&csvType=filtered&useColumnShortNames=true
 
-10. Access to electricity/water/sanitation: Disparities in access to (clean) sources and distress that it can cause in terms of health (diseases etc.) might lead to distinction in child growth throughout generations. Here is the link to my data: https://ourworldindata.org/grapher/number-using-at-least-basic-sanitation.csv?v=1&csvType=full&useColumnShortNames=true
+10. Access to basic sanitation: Disparities in access to (clean) sources and distress that it can cause in terms of health (diseases etc.) might lead to distinction in child growth throughout generations. Here is the link to my data: https://ourworldindata.org/grapher/share-of-population-with-improved-sanitation-faciltities.csv?v=1&csvType=filtered&useColumnShortNames=true&tab=chart&country=~OWID_WRL
 
-11. Air pollution level: Increase in air pollution may hinder child growth by causing harm for health. Here is the link to my data: https://ourworldindata.org/grapher/long-run-air-pollution.csv?v=1&csvType=full&useColumnShortNames=true
+11. Air pollution level: Increase in air pollution may hinder child growth by causing harm for health. Here is the link to my data: https://ourworldindata.org/grapher/long-run-air-pollution.csv?v=1&csvType=filtered&useColumnShortNames=true
 
-12. Average human height: This is the ultimate parameter for which I hope to find a correlation between urbanization. Above parameters will be examined in the expectation of a correlation. Here is the link to my data: https://ourworldindata.org/grapher/average-height-by-year-of-birth.csv?v=1&csvType=full&useColumnShortNames=true
+12. Average human height: This is the ultimate parameter for which I hope to find a correlation between urbanization. Above parameters will be examined in the expectation of a correlation. Here is the link to my data: https://ourworldindata.org/grapher/average-height-by-year-of-birth.csv?v=1&csvType=filtered&useColumnShortNames=true
 
 ----
 
