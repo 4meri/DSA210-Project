@@ -54,3 +54,11 @@ Alternative hypothesis: Urbanization tends to correlate positively with average 
 
 # About the Dataset:
 1- Missing values in height data after 1996 were left unfilled, as individuals born after this year had not reached adult height (age 18), and interpolation or imputation would not have been meaningful.
+
+----
+
+# Code Part
+
+Here are the links concerning several implementations regarding EDA and ML:
+https://colab.research.google.com/drive/1OW1kcP-0JTpsyeSxRzYhms8WKJKpiET7?usp=sharing
+https://colab.research.google.com/drive/1DZdDPahutbs4-1uEw48fSfdMquNKRJpi?usp=sharing
