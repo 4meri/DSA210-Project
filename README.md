@@ -60,5 +60,7 @@ Alternative hypothesis: Urbanization tends to correlate positively with average 
 # Code Part
 
 Here are the links concerning several implementations regarding EDA and ML:
+
 https://colab.research.google.com/drive/1OW1kcP-0JTpsyeSxRzYhms8WKJKpiET7?usp=sharing
+
 https://colab.research.google.com/drive/1DZdDPahutbs4-1uEw48fSfdMquNKRJpi?usp=sharing
